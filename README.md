@@ -4,7 +4,7 @@ Extensão pecl compilada para realizar impressão com PHP
 
 
 ## Instalação da extensão
-Copie a extensão `php_printer.dll` para pasta de extesões do PHP
+Copie a extensão `php_printer.dll` para pasta de extensões do PHP
     
 Configure o `php.ini`
     
